@@ -4,8 +4,8 @@
 
 //Conf
 //verbose (true|false) If true prints info to the console
-//dbName (String) Database's name
-//version (long long) Version's number 
+//dbName (String) Database name
+//version (long long) Version number 
 //initStores (Array[{
 //        name: (String), 
 //        (Optional)storeParams: object,
